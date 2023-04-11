@@ -1,0 +1,1 @@
+- Look something up on the internet: "|search|{url and query}" (e.g., "|search|https://www.google.com/search?q=grey+cats")
